@@ -1,0 +1,124 @@
+
+
+
+/*Extra small devices (portrait phones, 320px and up)*/
+@media (min-width: 320px) and (max-width: 575.98px) {
+
+.h1{
+	
+	font-size:20px !important;
+        margin-top: -30px;
+	
+}
+.s_wrapper{
+	margin-left:0px;
+}
+.resp {
+    
+    margin-bottom: 20px;
+}
+.fh {    
+    margin-top: 36px;
+}
+.card {   
+    margin-bottom: 20px;
+}
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+.h1 {    
+    font-size: 35px !important;    
+    margin-left: -45px;
+    padding-right: 40px;
+}
+.card {   
+    margin-bottom: 20px;
+}
+.p {    
+    margin: 30px 0;
+    margin-left: -42px;
+    margin-right: 283px;
+}
+.button {    
+    margin-left: -40px;
+}
+.c_h1 {    
+    padding-right: 0px;
+}
+.c_p {
+    padding-right: 0px !important;
+    margin-right: 0;
+}
+.resp {
+    width: 90%;
+    margin-bottom: 20px;
+}
+.fh {    
+    font-size: 24px !important;    
+    margin-top: 25px;
+}
+
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+.h1 {    
+    font-size: 31px !important;    
+    padding-top: 56px;
+       padding-right: 225px;
+}
+.p {    
+    font-size: 19px !important;    
+    margin: 30px 0px;
+    padding-right: 438px;
+}
+.c_h1 {    
+    padding-right: 0px;
+}
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+.h1 {    
+    font-size: 31px !important;    
+    padding-top: 56px;
+    padding-right: 500px;
+}
+.p {    
+    font-size: 19px !important;    
+    margin: 30px 0px;
+    padding-right: 438px;
+}
+.c_h1 {    
+    font-size: 40px !important;
+    padding-right: 0px;
+}
+.c_h2 {
+    font-size: 34px !important;
+    text-align: center;
+    padding: 0 196px;
+}
+
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px){
+.mt-3 {
+    margin-top: 1rem!important;
+    height: 46px;
+    width: 164px;
+}
+.bs {
+    font-size: 19px;
+    width: 85px;
+    height: 45px;
+}
+
+}
+
+/*Extra extra large devices (larger desktops, 1400px and up)*/
+@media (min-width: 1400px){
+
+
+}
